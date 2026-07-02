@@ -20,5 +20,5 @@ Sou desenvolvedor com foco no ecossistema **.NET / C#**
 ### 🛠️ Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogosapessoa&layout=compact" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=diogosapessoa&layout=compact" />
 </p>
