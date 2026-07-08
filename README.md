@@ -13,7 +13,7 @@
 
 ### 🚀 Sobre mim
 
-Sou desenvolvedor com foco no ecossistema **.NET / C#**
+Dev .NET há mais de 10 anos, construindo sistemas backend. Já trabalhei em projetos de missão crítica, integrações com hardware e mobile (.NET MAUI). Apaixonado por arquitetura limpa, boas práticas e aprender coisas novas.
 
 ---
 
