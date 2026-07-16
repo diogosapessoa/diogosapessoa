@@ -11,7 +11,6 @@ Desenvolvedor com mais de **10 anos de experiência** construindo sistemas de mi
 
 - 🔭 Construindo o **[Vinky](https://vinky.me)**, um SaaS de link-in-bio (.NET + React)
 - 📱 Autor de dois apps **.NET MAUI publicados na Google Play** (veja abaixo)
-- 🌱 Estudando **AWS** (S3, Lambda, mensageria) e aprofundando arquiteturas distribuídas
 - 💬 Fale comigo sobre **.NET, arquitetura, DDD, Clean Architecture e sistemas de missão crítica**
 - 📫 **diogosapessoa@gmail.com** · [LinkedIn](https://linkedin.com/in/diogosapessoa) · [NuGet](https://nuget.org/profiles/DiogoLeao)
 
