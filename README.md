@@ -7,7 +7,7 @@
 
 ---
 
-Desenvolvedor com mais de **10 anos de experiência** construindo sistemas de missão crítica em **C# / .NET**. Trabalhei no ecossistema completo do **SuperPrático** — plataforma que certifica mais de 20 milhões de aulas práticas de trânsito, integrada a múltiplos DETRANs — atuando do mobile ao backend, com foco em microsserviços, mensageria, segurança e processamento de dados em larga escala.
+Desenvolvedor com mais de **10 anos de experiência** construindo sistemas de missão crítica em **C# / .NET**. Trabalhei em plataforma que certifica mais de 20 milhões de aulas práticas de trânsito, integrada a múltiplos sistemas — atuando do mobile ao backend, com mensageria, segurança e processamento de dados em larga escala.
 
 - 🔭 Construindo o **[Vinky](https://vinky.me)**, um SaaS de link-in-bio (.NET + React)
 - 📱 Autor de dois apps **.NET MAUI publicados na Google Play** (veja abaixo)
